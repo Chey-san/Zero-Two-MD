@@ -23,7 +23,8 @@
 
 - `Thank me later.`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Chey-san/Zero-Two-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Chey-san/Zero-Two-Md)
+
 
 ## Whatsapp Group
 

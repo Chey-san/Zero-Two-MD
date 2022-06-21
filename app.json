@@ -1,7 +1,7 @@
 {
     "name": "Zero-Two-Md",
     "description": "A Whatsapp md bot build with nodejs",
-    "repository": "https://github.com/sampandey001/Zero-Two-Md",
+    "repository": "https://github.com/Chey-san/Zero-Two-MD",
     "logo": "https://c4.wallpaperflare.com/wallpaper/885/793/289/anime-darling-in-the-franxx-zero-two-darling-in-the-franxx-wallpaper-preview.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "multi device"],
     "success_url": "/",
